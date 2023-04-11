@@ -6,7 +6,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-master-alex-beng.vercel.app/api?username=alex-beng)
-![Top Langs](github-readme-stats-git-master-alex-beng.vercel.app/api/top-langs/?username=alex-beng&layout=compact)
+![Top Langs](https://github-readme-stats-git-master-alex-beng.vercel.app/api/top-langs/?username=alex-beng&layout=compact)
 
 
 <!---
