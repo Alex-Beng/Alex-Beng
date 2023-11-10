@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Alex-Beng 
 - 👀 I’m interested in Computer Graphics, Robotics.
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [twitter](https://twitter.com/AlexBeng8), [telegram](https://t.me/AAAlexBeng) 
+- 🌱 I’m currently learning Rust and more...
+- 📫 How to reach me [telegram](https://t.me/AAAlexBeng) 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-master-alex-beng.vercel.app/api?username=alex-beng)
