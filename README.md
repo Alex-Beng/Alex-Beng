@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex-Beng 
-- 👀 I’m interested in Computer Graphics, Robotics.
+- 👀 I’m interested in Computer Graphics, Robotics, ESP32 also.
 - 🌱 I’m currently learning Rust and more...
 - 📫 How to reach me [telegram](https://t.me/AAAlexBeng)
 - ❤️ Buy me a coffee [here](./vx.png)
