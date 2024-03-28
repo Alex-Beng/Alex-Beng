@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Beng 
 - 👀 I’m interested in Computer Graphics, Robotics.
-- 🌱 I’m currently learning Rust and ESP32.
+- 🌱 I’m currently learning Learning-based AI.
 - 📫 How to reach me [telegram](https://t.me/AAAlexBeng)
 - ❤️ Buy me a coffee [here](./vx.png)
 
