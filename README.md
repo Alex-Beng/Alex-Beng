@@ -4,9 +4,8 @@
 - 📫 How to reach me [telegram](https://t.me/AAAlexBeng)
 - ❤️ Buy me a coffee [here](./vx.png)
 
-
-![Anurag's GitHub stats](https://github-readme-stats-git-master-alex-beng.vercel.app/api?username=alex-beng)
-![Top Langs](https://github-readme-stats-git-master-alex-beng.vercel.app/api/top-langs/?username=alex-beng&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats-alexbengs-projects.vercel.app/api?username=alex-beng)
+![Top Langs](https://github-readme-stats-alexbengs-projects.vercel.app/api/top-langs/?username=alex-beng&layout=compact)
 
 
 <!---
