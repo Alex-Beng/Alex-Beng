@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Beng 
 - 👀 I’m interested in Robotics.
-- 🌱 I’m currently learning Learning-based AI.
+- 🌱 I’m currently learning Learning-based AI, and reviewing SLAM.
 - 📫 How to reach me [telegram](https://t.me/AAAlexBeng)
 - ❤️ Buy me a coffee [here](./vx.png)
 - 🤡 ~~梦想是工作能双休~~ 有双休辣
