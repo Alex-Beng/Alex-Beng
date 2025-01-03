@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Learning-based AI, Language Server, and reviewing SLAM.
 - 📫 How to reach me [telegram](https://t.me/AAAlexBeng)
 - ❤️ Buy me a coffee [here](./vx.png)
-- 🤡 ~~梦想是工作能双休~~ ，~~有双休辣~~，~~又没有了~~，就在下周
+- 🤡 ~~梦想是工作能双休~~ ，~~有双休辣~~，~~又没有了~~，~~就在下周~~。节后单休
 
 &nbsp;&nbsp;&nbsp;&nbsp; [![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=fff&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25259%26project%3D%26in=0)](https://codetime.dev)
 
